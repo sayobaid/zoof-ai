@@ -1,0 +1,1 @@
+Zoof-AI is a voice assistant for Computer or mobile devices
